@@ -1,0 +1,105 @@
+#perfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+h2 {
+    color: black;
+    text-align: center;
+}
+
+#i1 {
+ height: 200px;
+border:5px ridge gray}
+
+#p1{
+    box-sizing: auto;
+    width: 800px;
+    height: 50px;
+    padding: 30px;  
+    border: 10px ridge black;}
+
+#i2{
+    height: 180px;
+border: 5px ridge gray;}
+
+#p2{
+    box-sizing: auto;
+    width: 800px;
+    height: 60px;
+    padding: 30px;  
+    border: 10px ridge black ;}
+
+#i3{
+    height: 180px;
+border: 5px ridge gray;}
+
+#p3{
+    box-sizing: auto;
+    width: 800px;
+    height: 60px;
+    padding: 30px;  
+    border: 10px ridge black ;}
+
+#i4{
+    height: 190px;
+border: 5px ridge gray;}
+
+#p4{
+    box-sizing: auto;
+    width: 800px;
+    height: 60px;
+    padding: 30px;  
+    border: 10px ridge black ;}
+
+#i5{
+    height: 190px;
+border: 5px ridge gray;}
+
+#p5{
+    box-sizing: auto;
+    width: 800px;
+    height: 60px;
+    padding: 30px;  
+    border: 10px ridge black ;}
+
+    table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;}
+
+ td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;}
+
+tr:nth-child(even) {
+    background-color: #dddddd;}
+
+    .mydiv{
+        text-align: center;
+        height: 300px;
+        width:600px;
+        border: 10px outset black;
+        
+        background-color:white;
+        /*overflow: scroll;*//
+    }
+    .jiujitsu{
+        
+    }
+    #imgnat{
+        width: 200px;
+        height:150px;
+        float:auto;
+    }
+    #imgjt{
+        width: 200px;
+        height:150px;
+        float:auto;
+    }
+    #prf{
+        width: 200px;
+        height:150px;
+        float:auto;
+    }
